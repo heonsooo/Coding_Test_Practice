@@ -18,6 +18,6 @@ Coding_Test_Practice
 
 -[programmers] 프로그래머스 문제 풀이입니다.
 
--[백준] 백준 문제 풀이입니다.
-
 -[Studying] Python 및 알고리즘 공부 내용입니다.
+
+-[백준] 백준 문제 풀이입니다.
