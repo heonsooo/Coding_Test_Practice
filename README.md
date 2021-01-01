@@ -5,11 +5,11 @@
 Coding_Test_Practice
 │   README.md
 │    
+├───Studying
+│
 ├───programmers
 │   ├───Lv.1
 │   └───Lv.2
-│
-├───Studying
 │   
 └───백준
     ├───단계별
