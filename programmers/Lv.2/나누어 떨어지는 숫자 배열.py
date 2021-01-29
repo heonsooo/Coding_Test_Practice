@@ -12,6 +12,6 @@ def solution(arr, divisor):
 
     return sorted(answer)
 
-A ,B = [5,9,7,10] , 19
+A ,B = [5,9,7,15] , 19
 print(solution(A,B))
 
